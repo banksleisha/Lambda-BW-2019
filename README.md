@@ -24,19 +24,19 @@ At the same time, we also decided to sprinkle in a few other things into the pro
 The team consists of seven highly motivated and skilled learners each with different sets of skills that they contributed to the completion of this project.
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/leigh.jpg">
 
   Project Team Lead: [Leigh Taylor Martin](https://github.com/LTM888)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/jay-lee.jpg">
 
   User Interface Developer &amp; UX Designer: [Jay Lee](https://github.com/dreampoetlee)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/leisha.jpg">
 
   User Interface Developer &amp; UX Designer: [Leisha Banks](https://github.com/banksleisha)
 </p>
