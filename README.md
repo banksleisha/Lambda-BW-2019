@@ -42,25 +42,26 @@ The team consists of seven highly motivated and skilled learners each with diffe
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/aleesha.jpg">
 
-  Front-End Framework Developer: [Aleesha Wood](https://github.com/aleeshaw)
+  Unit 2 Front-End Framework Developer: [Aleesha Wood](https://github.com/aleeshaw)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/eva.jpg">
 
-  Front-End Framework Developer: [Jacqueline L Omollo](https://github.com/JacquelineOmollo)
+  Unit 2 Front-End Framework Developer: [Eva Gurtovaia](https://github.com/EvaGurtovaia)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/jacqueline.jpg">
 
-  Front-End Framework Developer: [Michael Jeter](https://github.com/mikejeter)
+  Unit 3 Front-End Framework Developer: [Jacqueline L Omollo](https://github.com/JacquelineOmollo)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="#">
+  <img width="150" height="150" src="team-info/images/michael.jpg">
 
-  Front-End Framework Developer: [Eva Gurtovaia](https://github.com/EvaGurtovaia)
+  Unit 3 Front-End Framework Developer: [Michael Jeter](https://github.com/mikejeter)
 </p>
+
