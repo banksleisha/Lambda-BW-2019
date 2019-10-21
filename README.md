@@ -24,43 +24,43 @@ At the same time, we also decided to sprinkle in a few other things into the pro
 The team consists of seven highly motivated and skilled learners each with different sets of skills that they contributed to the completion of this project.
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/leigh.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/leigh.jpg">
 
   Project Team Lead: [Leigh Taylor Martin](https://github.com/LTM888)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/jay-lee.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/jay-lee.jpg">
 
   User Interface Developer &amp; UX Designer: [Jay Lee](https://github.com/dreampoetlee)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/leisha.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/leisha.jpg">
 
   User Interface Developer &amp; UX Designer: [Leisha Banks](https://github.com/banksleisha)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/aleesha.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/aleesha.jpg">
 
   Unit 2 Front-End Framework Developer: [Aleesha Wood](https://github.com/aleeshaw)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/eva.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/eva.jpg">
 
   Unit 2 Front-End Framework Developer: [Eva Gurtovaia](https://github.com/EvaGurtovaia)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/jacqueline.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/jacqueline.jpg">
 
   Unit 3 Front-End Framework Developer: [Jacqueline L Omollo](https://github.com/JacquelineOmollo)
 </p>
 
 <p align="left">
-  <img width="150" height="150" src="team-info/images/michael.jpg">
+  <img width="150" height="150" src="docs/team-pics/images/michael.jpg">
 
   Unit 3 Front-End Framework Developer: [Michael Jeter](https://github.com/mikejeter)
 </p>
