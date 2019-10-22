@@ -21,6 +21,9 @@
   padding: 40px 0;
   margin: 0 auto;
 }
+.nav-container .nav {
+  text-align: center;
+}
 .container {
   border: 2px solid yellow;
   display: flex;
@@ -51,6 +54,8 @@
   height: 80%;
   flex-direction: column;
 }
-.img .right {
-  align-self: right;
+img {
+  width: 150px;
+  height: 150px;
+  align-content: left;
 }
