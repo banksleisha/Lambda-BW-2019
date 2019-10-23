@@ -13,10 +13,6 @@
 .nav-container .nav {
   text-align: center;
 }
-.footer {
-  width: 100%;
-  font-size: large;
-}
 .container {
   display: flex;
   width: 100%;
@@ -74,4 +70,8 @@ img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+}
+.footer {
+  width: 100%;
+  font-size: large;
 }
