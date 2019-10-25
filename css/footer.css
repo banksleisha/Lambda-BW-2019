@@ -1,0 +1,9 @@
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.social i {
+  padding: 5% 5% 5% 4%;
+  font-size: 380%;
+}
